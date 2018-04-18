@@ -13,6 +13,11 @@
 
     <dependencies>
         <dependency>
+            <groupId>moon.eva.booklib</groupId>
+            <artifactId>booklib-common</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
             <groupId>org.eclipse.persistence</groupId>
             <artifactId>org.eclipse.persistence.jpa</artifactId>
         </dependency>
