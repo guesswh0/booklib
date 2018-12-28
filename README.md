@@ -1,1 +1,1 @@
-# BookLib, Java EE 7 practice project
+# BookLib, Java EE 7 common project structure
